@@ -1,1 +1,2 @@
-# Template for Machine Learning projects
+# Neural networks
+Ejemplo de neural networks visto en clase
